@@ -1,0 +1,10 @@
+{
+  "title": "systemdesign",
+  "description": "Everything about System Design.",
+  "sections": [
+    "architecture",
+    "microserviecs"
+  ],
+  "estimatedTime": "12 months",
+  "difficulty": "intermediate"
+}
