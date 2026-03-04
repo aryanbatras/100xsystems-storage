@@ -1,9 +1,10 @@
 {
   "title": "datastructures",
-  "description": "datastructures",
+  "description": "Everything in DSA ",
   "sections": [
-    "arrays"
+    "arrays",
+    "linked list"
   ],
-  "estimatedTime": "6",
+  "estimatedTime": "6 months",
   "difficulty": "beginner"
 }
