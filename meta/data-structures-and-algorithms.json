@@ -1,0 +1,60 @@
+{
+  "title": "Data Structures And Algorithms",
+  "description": "Everything about DSA",
+  "longDescription": "Leetcode",
+  "sections": [
+    "array",
+    "linked list",
+    "strings"
+  ],
+  "estimatedTime": "6 months",
+  "difficulty": "beginner",
+  "category": "foundation",
+  "level": 2,
+  "prerequisites": [
+    "time and space complexity",
+    "basic coding principles",
+    "object oriented programming"
+  ],
+  "outcomes": [
+    "interview ready",
+    "logic building",
+    "critical thinking",
+    "debugging skills",
+    "thinking in patterns"
+  ],
+  "skills": [
+    "data structures",
+    "algorithms"
+  ],
+  "technologies": [
+    "coding"
+  ],
+  "learningObjectives": [
+    "Data Structures will help you clear your interviews",
+    "Data Structures will demonstrate your strong problem solving skills"
+  ],
+  "keyProjects": [
+    "Solving leetcode."
+  ],
+  "assessmentCriteria": [
+    "Write an article explaining all the 50+ patterns you have found by solving 200+ questions on leetcode."
+  ],
+  "tags": [
+    "coding"
+  ],
+  "lastUpdated": "2026-03-04T16:47:31.401Z",
+  "version": "1.0.0",
+  "totalArticles": 0,
+  "estimatedHours": 5000,
+  "difficultyScore": 70,
+  "discussionEnabled": true,
+  "mentorshipAvailable": true,
+  "communityResources": [
+    "Leetcode"
+  ],
+  "certificateAvailable": true,
+  "certificateRequirements": [
+    "Complete the assessment and email us your published article's link"
+  ]
+}
