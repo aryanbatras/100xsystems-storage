@@ -7,7 +7,7 @@
     "linked list",
     "strings"
   ],
-  "estimatedTime": "6 months",
+  "estimatedTime": "12 months",
   "difficulty": "beginner",
   "category": "foundation",
   "level": 2,
@@ -43,11 +43,11 @@
   "tags": [
     "coding"
   ],
-  "lastUpdated": "2026-03-04T16:47:31.401Z",
-  "version": "1.0.0",
+  "lastUpdated": "2026-03-04T16:48:28.021Z",
+  "version": "1.0.1",
   "totalArticles": 0,
   "estimatedHours": 5000,
-  "difficultyScore": 70,
+  "difficultyScore": 50,
   "discussionEnabled": true,
   "mentorshipAvailable": true,
   "communityResources": [
