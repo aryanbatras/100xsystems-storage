@@ -1,0 +1,17 @@
+{
+  "roadmaps": [
+    "foundation-in-javascript"
+  ],
+  "section": "javascript",
+  "order": 1,
+  "difficulty": "beginner",
+  "author": "Aryan",
+  "tags": [
+    "javascript",
+    "frontend"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
