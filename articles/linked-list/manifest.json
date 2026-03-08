@@ -1,0 +1,16 @@
+{
+  "roadmaps": [
+    "data-structures"
+  ],
+  "section": "linked list",
+  "order": 1,
+  "difficulty": "beginner",
+  "tags": [
+    "linked list",
+    "datastructures"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
