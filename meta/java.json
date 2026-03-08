@@ -1,0 +1,44 @@
+{
+  "title": "Java",
+  "description": "Foundation In Java",
+  "sections": [
+    "java",
+    "multithreading"
+  ],
+  "estimatedTime": "6",
+  "difficulty": "beginner",
+  "category": "foundation",
+  "level": 1,
+  "prerequisites": [],
+  "outcomes": [
+    "deep understanding of java"
+  ],
+  "skills": [
+    "java",
+    "concurrency"
+  ],
+  "technologies": [
+    "java",
+    "concurrency"
+  ],
+  "learningObjectives": [],
+  "keyProjects": [],
+  "assessmentCriteria": [],
+  "author": "Aryan",
+  "tags": [
+    "java",
+    "concurrency",
+    "backend",
+    "multithreading"
+  ],
+  "lastUpdated": "2026-03-08T10:56:18.770Z",
+  "version": "0.0.1",
+  "totalArticles": 2,
+  "estimatedHours": 50,
+  "difficultyScore": 30,
+  "discussionEnabled": true,
+  "mentorshipAvailable": false,
+  "communityResources": [],
+  "certificateAvailable": false,
+  "certificateRequirements": []
+}
