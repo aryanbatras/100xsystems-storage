@@ -1,0 +1,16 @@
+{
+  "roadmaps": [
+    "data-structures"
+  ],
+  "section": "heap",
+  "order": 1,
+  "difficulty": "beginner",
+  "tags": [
+    "heaps",
+    "priority queues"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
