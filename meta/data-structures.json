@@ -1,0 +1,65 @@
+{
+  "title": "Data Structures",
+  "description": "Everything about DSA",
+  "longDescription": "Detailed Notes about data structures and algorithm",
+  "sections": [
+    "arrays",
+    "stacks",
+    "queues",
+    "linked list",
+    "binary trees",
+    "heap",
+    "graph",
+    "dynamic programming"
+  ],
+  "estimatedTime": "6",
+  "difficulty": "beginner",
+  "category": "foundation",
+  "level": 2,
+  "prerequisites": [
+    "foundation-javascript",
+    "foundation-java"
+  ],
+  "outcomes": [
+    "basic understanding of data structures and algorithms"
+  ],
+  "skills": [
+    "interview preparation",
+    "logical ability"
+  ],
+  "technologies": [
+    "c",
+    "data structures",
+    "algorithms"
+  ],
+  "learningObjectives": [
+    "Understanding data structures and algorithms"
+  ],
+  "keyProjects": [
+    "Building your own data structures library from scratch"
+  ],
+  "assessmentCriteria": [
+    "Solving 50 basic questions in Leetcode"
+  ],
+  "author": "Aryan",
+  "tags": [
+    "arrays",
+    "stacks",
+    "queues",
+    "linked list",
+    "binary trees",
+    "heap",
+    "graph",
+    "dynamic programming"
+  ],
+  "lastUpdated": "2026-03-08T10:35:30.483Z",
+  "version": "0.0.1",
+  "totalArticles": 10,
+  "estimatedHours": 100,
+  "difficultyScore": 30,
+  "discussionEnabled": true,
+  "mentorshipAvailable": true,
+  "communityResources": [],
+  "certificateAvailable": false,
+  "certificateRequirements": []
+}
