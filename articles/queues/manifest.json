@@ -1,0 +1,16 @@
+{
+  "roadmaps": [
+    "data-structures"
+  ],
+  "section": "queues",
+  "order": 1,
+  "difficulty": "beginner",
+  "author": "Aryan",
+  "tags": [
+    "queues"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
