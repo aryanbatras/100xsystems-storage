@@ -1,0 +1,17 @@
+{
+  "roadmaps": [
+    "java"
+  ],
+  "section": "multithreading",
+  "order": 1,
+  "difficulty": "beginner",
+  "author": "Aryan",
+  "tags": [
+    "concurrency",
+    "multithreading"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
