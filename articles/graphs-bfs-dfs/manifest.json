@@ -1,0 +1,18 @@
+{
+  "roadmaps": [
+    "data-structures"
+  ],
+  "section": "graph",
+  "order": 1,
+  "difficulty": "beginner",
+  "author": "Aryan",
+  "tags": [
+    "graphs",
+    "bfs",
+    "dfs"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
