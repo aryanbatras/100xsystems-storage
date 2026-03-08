@@ -1,0 +1,17 @@
+{
+  "roadmaps": [
+    "data-structures"
+  ],
+  "section": "arrays",
+  "order": 1,
+  "difficulty": "beginner",
+  "author": "Aryan",
+  "tags": [
+    "datastructures",
+    "arrays"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
