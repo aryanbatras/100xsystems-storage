@@ -1,0 +1,49 @@
+{
+  "title": "System Design",
+  "description": "Everything about System Design",
+  "sections": [
+    "systems",
+    "system design",
+    "systems thinking"
+  ],
+  "estimatedTime": "3",
+  "difficulty": "intermediate",
+  "category": "systems",
+  "level": 4,
+  "prerequisites": [
+    "datastructures"
+  ],
+  "outcomes": [
+    "deep understanding of systems thinking"
+  ],
+  "skills": [
+    "understanding how systems work"
+  ],
+  "technologies": [
+    "Architecture"
+  ],
+  "learningObjectives": [
+    "Understanding how systems are built at scale."
+  ],
+  "keyProjects": [
+    "Build a URL Shortner from scratch that can handle 1 Million+ users and explain your architecture."
+  ],
+  "assessmentCriteria": [
+    "Interview Questions of system design"
+  ],
+  "author": "Aryan",
+  "tags": [
+    "system design",
+    "systems thinking"
+  ],
+  "lastUpdated": "2026-03-08T10:39:21.022Z",
+  "version": "0.0.1",
+  "totalArticles": 10,
+  "estimatedHours": 50,
+  "difficultyScore": 50,
+  "discussionEnabled": true,
+  "mentorshipAvailable": false,
+  "communityResources": [],
+  "certificateAvailable": false,
+  "certificateRequirements": []
+}
