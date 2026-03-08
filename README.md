@@ -1,2 +1,2 @@
 # 100xsystems-storage
-storing articles and blobs here
+Storing articles and blobs here
