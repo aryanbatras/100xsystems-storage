@@ -1,0 +1,15 @@
+{
+  "roadmaps": [
+    "data-structures"
+  ],
+  "section": "stacks",
+  "order": 1,
+  "difficulty": "beginner",
+  "tags": [
+    "stacks"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
