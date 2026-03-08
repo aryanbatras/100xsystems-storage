@@ -1,0 +1,18 @@
+{
+  "roadmaps": [
+    "data-structures"
+  ],
+  "section": "binary trees",
+  "order": 1,
+  "difficulty": "beginner",
+  "author": "Aryan",
+  "tags": [
+    "avl trees",
+    "trees",
+    "binary trees"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
