@@ -1,0 +1,18 @@
+{
+  "roadmaps": [
+    "system-design"
+  ],
+  "section": "systems",
+  "order": 1,
+  "difficulty": "beginner",
+  "author": "Architecture",
+  "tags": [
+    "systems",
+    "system design",
+    "architecture"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
