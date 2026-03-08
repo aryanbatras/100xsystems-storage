@@ -1,0 +1,47 @@
+{
+  "title": "Foundation In Javascript ",
+  "description": "Basic javascript internal concepts",
+  "sections": [
+    "javascript"
+  ],
+  "estimatedTime": "3",
+  "difficulty": "beginner",
+  "category": "foundation",
+  "level": 1,
+  "prerequisites": [
+    "javascript"
+  ],
+  "outcomes": [
+    "deep understanding of Javascript"
+  ],
+  "skills": [
+    "javascript"
+  ],
+  "technologies": [
+    "javascript"
+  ],
+  "learningObjectives": [
+    "Understanding core javascript concepts"
+  ],
+  "keyProjects": [
+    "Publish a npm library"
+  ],
+  "assessmentCriteria": [
+    "Explain me what is prototype"
+  ],
+  "author": "Aryan",
+  "tags": [
+    "javascript",
+    "frontend"
+  ],
+  "lastUpdated": "2026-03-08T10:42:09.288Z",
+  "version": "0.0.1",
+  "totalArticles": 2,
+  "estimatedHours": 30,
+  "difficultyScore": 15,
+  "discussionEnabled": true,
+  "mentorshipAvailable": false,
+  "communityResources": [],
+  "certificateAvailable": false,
+  "certificateRequirements": []
+}
