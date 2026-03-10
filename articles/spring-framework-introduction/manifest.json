@@ -1,0 +1,20 @@
+{
+  "roadmaps": [
+    "java"
+  ],
+  "section": "java",
+  "order": 1,
+  "difficulty": "advanced",
+  "author": "Aryan",
+  "tags": [
+    "framework",
+    "spring",
+    "spring boot",
+    "java",
+    "backend"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
