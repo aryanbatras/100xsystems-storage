@@ -1,0 +1,47 @@
+{
+  "title": "Spring Boot",
+  "description": "Spring boot in depth",
+  "sections": [
+    "spring",
+    "spring boot"
+  ],
+  "estimatedTime": "6",
+  "difficulty": "intermediate",
+  "category": "development",
+  "level": 5,
+  "prerequisites": [
+    "java",
+    "multithreading"
+  ],
+  "outcomes": [
+    "deep understanding of backend"
+  ],
+  "skills": [
+    "java",
+    "backend"
+  ],
+  "technologies": [
+    "java",
+    "spring framework"
+  ],
+  "learningObjectives": [],
+  "keyProjects": [],
+  "assessmentCriteria": [],
+  "author": "Aryan",
+  "tags": [
+    "java",
+    "spring framework",
+    "spring",
+    "spring boot"
+  ],
+  "lastUpdated": "2026-03-10T09:23:37.912Z",
+  "version": "0.0.1",
+  "totalArticles": 2,
+  "estimatedHours": 100,
+  "difficultyScore": 65,
+  "discussionEnabled": true,
+  "mentorshipAvailable": false,
+  "communityResources": [],
+  "certificateAvailable": false,
+  "certificateRequirements": []
+}
