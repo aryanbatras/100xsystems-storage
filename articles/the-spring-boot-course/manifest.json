@@ -1,0 +1,19 @@
+{
+  "roadmaps": [
+    "spring-boot"
+  ],
+  "section": "spring boot",
+  "order": 1,
+  "difficulty": "intermediate",
+  "author": "Aryan",
+  "tags": [
+    "spring",
+    "spring boot",
+    "backend",
+    "framework"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
