@@ -1,8 +1,9 @@
 {
   "roadmaps": [
-    "java"
+    "java",
+    "spring-boot"
   ],
-  "section": "java",
+  "section": "spring",
   "order": 1,
   "difficulty": "advanced",
   "author": "Aryan",
