@@ -1,0 +1,17 @@
+{
+  "roadmaps": [
+    "system-design"
+  ],
+  "section": "system design",
+  "order": 1,
+  "difficulty": "advanced",
+  "author": "Aryan",
+  "tags": [
+    "systems",
+    "system design"
+  ],
+  "discussion": {
+    "enabled": true,
+    "provider": "giscus"
+  }
+}
